@@ -1,6 +1,6 @@
 Bem-vindo ao meu perfil
 
-Estou estudando na Alura
+Sou um estudante do ensino médio
 
 Estou me desenvolvendo na linguagem JavaScript
 
