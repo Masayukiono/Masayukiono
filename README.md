@@ -1,7 +1,9 @@
 # Bem-vindo ao meu perfil
 
-Sou um estudante do ensino médio
+**Meu nome é masayuki**
 
-Estou me desenvolvendo na linguagem JavaScript
++ Estou estudando no Alura
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
++ Estou me desenvolvendo na linguagem JavaScript
+
++ Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
